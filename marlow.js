@@ -1,4 +1,3 @@
-<script>
 gsap.registerPlugin(ScrollTrigger);
 
 ScrollTrigger.defaults({
@@ -481,4 +480,3 @@ $(".section-4-mobile").each(function (index) {
       }
     );
   });
-  </script>
